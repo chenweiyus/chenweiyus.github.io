@@ -1,7 +1,6 @@
 {
 
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
-
+spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/bmk7nkyk.jar;md5;6fc17c97e76823a606bc00cea00c2ab5',
 
 lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt']}]}],
 
